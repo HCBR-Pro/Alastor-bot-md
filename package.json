@@ -1,0 +1,41 @@
+{
+  "name": "alastor-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.0.0",
+    "@hapi/boom": "^9.1.4",
+    "@types/webgl-ext": "^0.0.32",
+    "aki-api": "^6.0.8",
+    "axios": "^0.22.0",
+    "cfonts": "^2.10.0",
+    "crypto": "^1.0.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.0",
+    "g-i-s": "^2.1.6",
+    "jsdom": "^19.0.0",
+    "linkifyjs": "^3.0.1",
+    "mime-types": "^2.1.33",
+    "moment-timezone": "^0.5.33",
+    "node-cron": "^3.0.0",
+    "node-fetch": "^2.6.5",
+    "performance-now": "^2.1.0",
+    "pino": "^6.13.3",
+    "pm2": "^5.1.2",
+    "qrcode-terminal": "^0.12.0",
+    "spinnies": "^0.5.1",
+    "translatte": "^3.0.1",
+    "uberduck-api": "^1.2.2",
+    "ytdl-core": "^4.9.2",
+    "ytdownloader.js": "^1.0.9"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Briz4lok4",
+  "description": "Bot em pt-br com base original 100% BR usando api baileys-md"
+}
