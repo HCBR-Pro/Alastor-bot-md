@@ -96,7 +96,10 @@ sh start.sh
 
 (ou)
 pm2 start index.js
-
+```
+Para reseta o qr code apenas remova o arquivo AlastorAuth.json
+```
+rm AlastorAuth.json
 ```
 
 ----
