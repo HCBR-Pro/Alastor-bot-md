@@ -24,7 +24,7 @@ O alastor bot consiste em um bot de whatsapp que utiliza a mais recente api bail
 
 # Índice 
 
-- [Código Editável e Base Descriptografada](#base-descriptograda)
+- [Código Editável e Base Descriptografada](#-código-editável-e-base-descriptografada)
 - [O que há de novo?](#o-que-há-de-novo)
 - [Instalação](#%EF%B8%8F-instalação)
 - [Instalação pelo windows](#%EF%B8%8F-instalação-pelo-windows)
@@ -51,7 +51,7 @@ Por mais que a instalação seja bem simples de fazer.Este bot é feito para que
 # 👨‍💻 Código Editável e Base Descriptografada
 
 <b>Este bot não tem o index.js editável, ou seja, só é possível editar os demais arquivos. 
-Caso tenha interesse em comprar o código editável do alastor bot ou alguma base para criar seu próprio bot multi device [clique aqui](wa.me/557187645787) para negociar comigo 😀 </b>
+Caso tenha interesse em comprar o código editável do alastor bot ou alguma base para criar seu próprio bot multi device [clique aqui](https://wa.me/557187645787) para negociar comigo 😀 </b>
 
 ----
 
