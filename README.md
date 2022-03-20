@@ -24,13 +24,14 @@ O alastor bot consiste em um bot de whatsapp que utiliza a mais recente api bail
 
 # Índice 
 
-- [Base Descriptograda](#Base-Descriptograda)
-- [O que há de novo?](#O-que-há-de-novo?)
-- [Instalação](#⬇️-Instalação)
-- [Mudando as configurações](#🙋‍♂️-Mudando-as-configurações-do-bot)
-- [Donate](#🥺-Donate)
-- [Contatos](#🤝-Contato)
-- [Créditos](#Créditos)
+- [Base Descriptograda](#base-descriptograda)
+- [O que há de novo?](#o-que-há-de-novo)
+- [Instalação](#⬇️-instalação)
+- [Trocar de número e reiniciar QR code](#🔁-trocar-de-número-o-resetar-qr-code)
+- [Mudando as configurações](#🙋‍♂️-mudando-as-configurações-do-bot)
+- [Donate](#🥺-donate)
+- [Contatos](#🤝-contato)
+- [Créditos](#créditos)
 
 -----
 
@@ -96,14 +97,14 @@ sh start.sh
 
 (ou)
 pm2 start index.js
+
 ```
-Para reseta o qr code apenas remova o arquivo AlastorAuth.json
-```
-rm AlastorAuth.json
-```
+AVISO: AO ESCANEAR O QRCODE O WHATSAPP IRÁ ENTRAR EM UM LOOP DE CONEXÃO E O BOT IRÁ PARAR DE RODAR. É FUNDAMENTAL QUE VOCÊ DÊ O COMANDO `node index.js` ASSIM QUE ESCANEAR O QR CODE FOR ESCANEADO E O BOT PARAR DE RODAR, CASO CONTRÁRIO NÃO IRA CONECTAR E TERA QUE RESETAR O QR CODE
 
 ----
+# 🔁 Trocar de número ou resetar QR code
 
+Para resetar o qr code se quiser colocar em outro número, basta apenas remover o arquivo `AlastorAuth.json` 
 
 # ⬇️ Instalação pelo windows
 

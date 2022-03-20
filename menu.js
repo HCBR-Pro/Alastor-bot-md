@@ -39,7 +39,6 @@ se quiser ver minhas redes sociais escreva o comandos ${p}sociais.
 ┋ ${p}unblockcmd (cmd sem prefix) 
 ┋ ${p}antispamcmd (1 or 0) 
 ┋ ${p}antipv (1 or 0) 
-┋ ${p}infinityblock (1 or 0) 
 ┋ ${p}antiligar (1 or 0)
 ┋ ${p}addpalavra (txt) 
 ┋ ${p}rmpalavra (txt) 
@@ -57,10 +56,8 @@ se quiser ver minhas redes sociais escreva o comandos ${p}sociais.
 ╭┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╮
 ┋ 🗣️ 𝙄𝙈𝙄𝙏𝘼𝘿𝙊𝙍 🗣️
 ┋
-┋ ${p}seumadruga
 ┋ ${p}ibere
 ┋ ${p}eminem
-┋ ${p}rick
 ┋ ${p}faustao
 ┋ ${p}patolino
 ╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╯
@@ -115,19 +112,6 @@ se quiser ver minhas redes sociais escreva o comandos ${p}sociais.
 ┋ ${p}level (n/a, num) 
 ╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╯
 
-╭┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╮
-┋ 🎮 𝙂𝘼𝙈𝙀𝙎 𝙓𝙋 🎮
-┋
-┋ ${p}jogatina (1 or 0) 
-┋ ${p}stealrandom 
-┋ ${p}steal (dial number) 
-┋ ${p}cassino 
-┋ ${p}flip  
-┋ ${p}doarxp (xp) (dial number) 
-┋ ${p}roletarandom 
-┋ ${p}roletaneg 
-┋ ${p}roletapos 
-╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╯
 
 ╭┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╮
 ┋   ⏳ 𝙇𝙄𝙈𝙄𝙏𝙀𝙎 ⏳
@@ -267,7 +251,6 @@ se quiser ver minhas redes sociais escreva o comandos ${p}sociais.
 ┋💥 𝙍𝙊𝙇𝙀𝙏𝘼 𝙍𝙐𝙎𝙎𝘼 💥
 ┋
 ┋ ${p}helproleta 
-┋ ${p}roletarussahard 
 ┋ ${p}roletarussamed 
 ┋ ${p}roletarussaeasy 
 ┋ ${p}roletarussapac 
@@ -282,7 +265,7 @@ se quiser ver minhas redes sociais escreva o comandos ${p}sociais.
 ┋ ${p}tttrank 
 ┋ ${p}ttthelp 
 ┋ ${p}delttc  
-┋ ${p}tictactoe 
+┋ ${p}tttplayer (dial num)
 ╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╯
 
 ╭┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╮
@@ -350,7 +333,6 @@ se quiser ver minhas redes sociais escreva o comandos ${p}sociais.
 ┋ ${p}corno (num1)
 ┋ ${p}nazista (num1)
 ┋ ${p}comunista (num1)
-┋ ${p}dado
 ┋ ${p}gay (num1)
 ┋ ${p}qi (num1)
 ┋ ${p}seudia (num1)
