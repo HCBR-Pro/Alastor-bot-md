@@ -44,7 +44,7 @@ Este bot esta protegido com a licença MIT ou seja, será permitido a distribui�
 ---
 
 # ❌ Aviso para os iniciantes ❌
-Por mais que a instalação seja bem simples de fazer.Este bot é feito para quem tem um conhecimento bem básico de javascript ou saiba o básico de terminal linux e <b> não irei prestar suporte caso o erro seja do usuário não souber instalar ou configurar o bot, pois os comandos são bem básicos e o conhecimento vem do usuário</b>. Mas, caso possua um bug que seja do bot mande o print no meu [whatsapp](wa.me/557187645787).
+Por mais que a instalação seja bem simples de fazer.Este bot é feito para quem tem um conhecimento bem básico de javascript ou saiba o básico de terminal linux e <b> não irei prestar suporte caso o erro seja do usuário não souber instalar ou configurar o bot, pois os comandos são bem básicos e o conhecimento vem do usuário</b>. Mas, caso possua um bug que seja do bot mande o print no meu [whatsapp](https://wa.me/557187645787).
 
 ----
 
