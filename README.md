@@ -102,9 +102,12 @@ pm2 start index.js
 AVISO: AO ESCANEAR O QRCODE O WHATSAPP IRÁ ENTRAR EM UM LOOP DE CONEXÃO E O BOT IRÁ PARAR DE RODAR. É FUNDAMENTAL QUE VOCÊ DÊ O COMANDO `node index.js` ASSIM QUE ESCANEAR O QR CODE FOR ESCANEADO E O BOT PARAR DE RODAR, CASO CONTRÁRIO NÃO IRA CONECTAR E TERA QUE RESETAR O QR CODE
 
 ----
+
 # 🔁 Trocar de número ou resetar QR code
 
 Para resetar o qr code se quiser colocar em outro número, basta apenas remover o arquivo `AlastorAuth.json` 
+
+----
 
 # ⬇️ Instalação pelo windows
 
