@@ -24,14 +24,15 @@ O alastor bot consiste em um bot de whatsapp que utiliza a mais recente api bail
 
 # Índice 
 
-- [Base Descriptograda](#base-descriptograda)
+- [Código Editável e Base Descriptografada](#base-descriptograda)
 - [O que há de novo?](#o-que-há-de-novo)
-- [Instalação](#⬇️-instalação)
-- [Trocar de número e reiniciar QR code](#🔁-trocar-de-número-o-resetar-qr-code)
-- [Mudando as configurações](#🙋‍♂️-mudando-as-configurações-do-bot)
-- [Donate](#🥺-donate)
-- [Contatos](#🤝-contato)
-- [Créditos](#créditos)
+- [Instalação](#%EF%B8%8F-instalação)
+- [Instalação pelo windows](#%EF%B8%8F-instalação-pelo-windows)
+- [Trocar de número e reiniciar QR code](#-trocar-de-número-o-resetar-qr-code)
+- [Mudando as configurações](#%EF%B8%8F-mudando-as-configurações-do-bot)
+- [Donate](#-donate)
+- [Contatos](#-contato)
+- [Contribuição](#-contribuição)
 
 -----
 
@@ -42,8 +43,15 @@ Este bot esta protegido com a licença MIT ou seja, será permitido a distribui�
 
 ---
 
-# ❌ Alerta ❌
-<b> O baileys md está em beta e está rodeado de bugs de conexão e instabilidade, algumas mensganes podem se repetir ou não ser lidas, porém com o tempo isso vai ser corrgido. </b>
+# ❌ Aviso para os iniciantes ❌
+Por mais que a instalação seja bem simples de fazer.Este bot é feito para quem tem um conhecimento bem básico de javascript ou saiba o básico de terminal linux e <b> não irei prestar suporte caso o erro seja do usuário não souber instalar ou configurar o bot, pois os comandos são bem básicos e o conhecimento vem do usuário</b>. Mas, caso possua um bug que seja do bot mande o print no meu [whatsapp](wa.me/557187645787).
+
+----
+
+# 👨‍💻 Código Editável e Base Descriptografada
+
+<b>Este bot não tem o index.js editável, ou seja, só é possível editar os demais arquivos. 
+Caso tenha interesse em comprar o código editável do alastor bot ou alguma base para criar seu próprio bot multi device [clique aqui](wa.me/557187645787) para negociar comigo 😀 </b>
 
 ----
 
