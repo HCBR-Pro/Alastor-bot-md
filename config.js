@@ -1,10 +1,10 @@
-const ownerNumber = ["557187645787@s.whatsapp.net"] 
+const ownerNumber = ["552181449242@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
 const OriginalOwner = '557187645787' 
 // mude para seu numero
 
-const menuimg = 'https://i.imgur.com/2KJfprY.jpg'
+const menuimg = 'https://i.ibb.co/Qvc8cKM/anon-bot.jpg'
 // Link da foto do menu
 
 const registeruser = false
@@ -73,7 +73,7 @@ const backgroundbyeimg = `https://i.imgur.com/2TCj9ri.jpg`
 const apikeyimgbb = 'c9cf132756510ad171587fb5a5a0389f'
 // sua key do imgbb para ativar o antiporn e mais alguns comando que necessita de baixar imagem
 
-const cr = '✟🔥⃢⃟𝘼𝙇𝘼⃟𝙎𝙏𝙊𝙍 𝘽𝙊⃟𝙏🔥✟\n' 
+const cr = 'ลи๏и☠BoT\n' 
 // texto do simbolo de verificado
 
 const prefix = '!' 
@@ -187,7 +187,7 @@ const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n' 
 + 'FN:Meu Chefe\n' 
 + 'ORG:Ian;\n' 
-+ 'TEL;type=CELL;type=VOICE;waid=557187645787:+55 71 8764-5787\n' 
++ 'TEL;type=CELL;type=VOICE;waid=552181449242:+55 21 8144-9242\n' 
 + 'END:VCARD'
 //vcard do propietário, mude os numeros de acordo com o formato que
 //ele corresponde
